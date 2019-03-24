@@ -15,6 +15,6 @@ The program returns the browser window with the address to where to download the
 
 ## Contribution
 Feel free to improve existing code, documentation or implement new algorithm.</br>
-Your contributions are always welcome.
+Your contributions are always welcome!
 
 ###### Thanks for reading</br>TPT
